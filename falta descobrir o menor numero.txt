@@ -7,6 +7,8 @@ Faça um programa que leia dez números e obtenha:
 A soma dos números;
 	O menor número;
 	O maior número;
+	
+	Hello
 
 *******************************************************************************/
 #include <iostream>
